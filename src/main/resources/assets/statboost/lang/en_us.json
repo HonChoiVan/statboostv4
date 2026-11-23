@@ -1,0 +1,15 @@
+{
+  "key.statboost.open": "Open Stat Screen",
+  "key.categories.statboost": "Stat Boost",
+  "screen.statboost.title": "Character Stats",
+  "screen.statboost.level": "XP Levels: %s",
+  "screen.statboost.cost": "%s lv",
+  "screen.statboost.max": "MAX",
+  "stat.statboost.strength": "Strength",
+  "stat.statboost.health": "Health",
+  "stat.statboost.speed": "Speed",
+  "stat.statboost.spell_power": "Spell Power",
+  "msg.statboost.not_enough_xp": "Not enough XP! You need %s levels.",
+  "msg.statboost.maxed": "This stat is already maxed.",
+  "msg.statboost.reset": "Reset stats of %s player(s)."
+}

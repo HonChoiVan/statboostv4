@@ -1,0 +1,15 @@
+{
+  "key.statboost.open": "Mở bảng chỉ số",
+  "key.categories.statboost": "Stat Boost",
+  "screen.statboost.title": "Bảng chỉ số nhân vật",
+  "screen.statboost.level": "Cấp kinh nghiệm: %s",
+  "screen.statboost.cost": "%s cấp",
+  "screen.statboost.max": "TỐI ĐA",
+  "stat.statboost.strength": "Sức mạnh",
+  "stat.statboost.health": "Máu",
+  "stat.statboost.speed": "Tốc độ",
+  "stat.statboost.spell_power": "Sức mạnh phép thuật",
+  "msg.statboost.not_enough_xp": "Không đủ kinh nghiệm! Cần %s cấp.",
+  "msg.statboost.maxed": "Chỉ số này đã đạt tối đa.",
+  "msg.statboost.reset": "Đã đặt lại chỉ số của %s người chơi."
+}

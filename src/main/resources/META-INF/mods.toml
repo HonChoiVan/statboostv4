@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="statboost"
+version="1.0.0"
+displayName="Stat Boost"
+description='''
+Bang chi so: dung kinh nghiem de nang Suc manh, Mau, Toc do va Suc manh phep thuat.
+Tuong thich Iron's Spellbooks va To Magic and Extras.
+'''
+
+[[dependencies.statboost]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.statboost]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.statboost]]
+modId="irons_spellbooks"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
